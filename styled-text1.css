@@ -1,0 +1,19 @@
+.styled-text{
+  font-size: 30px;
+  background-color: aquamarine;
+  color:blue;
+  text-align: center;
+  
+}
+
+.text{
+  font-size: 45px; 
+}
+
+.footer{
+    text-align:center;
+    font-size:47px;
+    face:ubuntu;
+    color:white;
+    background-color:black
+  }
